@@ -69,6 +69,10 @@ The average Maternal Mortality Ratio of Africa is greater than all the other con
 
 The trend over the 32years period shows improvements and decline in the maternal mortality ratio in every continent.
 
+The Dashboard from PowerBI is shown below;
+
+![Maternal Mortality Ratio](https://github.com/iamBernardMuoneme/MaternalMortalityRatio/blob/main/Maternal%20Mortality%20Dashboard%20Report(1990-2021).PNG)
+
 ## Recommendations
 
 Africa needs help desperately and more research needs to be conducted on why the ratio ranks extremely high, Asia seems to be doing almost okay as a continent despite it's large population.
