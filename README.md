@@ -19,6 +19,8 @@ Gaining insights on the World Maternal Mortality Ratio.
 ##  Introduction
 Welcome to the Maternal Mortality Ratio Project, the complete data analysis process is performed on Excel and PowerBI, this project delves into the intricate details of maternal mortality ratio of different countries from all the continents in the world.
 
+The Maternal Mortality Ratio (MMR) is a crucial indicator within the Gender Inequality Index (GII), an encompassing measure designed to assess gender disparities and inequities within a society. The GII, an extension of the Human Development Index (HDI), focuses on three primary dimensions: reproductive health, empowerment, and economic activity. Reproductive health, one of the key dimensions, sheds light on the challenges faced by individuals based on their gender. Within this context, the Maternal Mortality Ratio specifically gauges the number of maternal deaths per 100,000 live births, providing insight into the disparities in health outcomes experienced by women. This indicator reflects the state of maternal health and underscores the importance of addressing reproductive rights to mitigate gender inequalities.
+
 ## Getting Started 
 As a healthcare data analyst, the maternal mortality ratio dataset was stumbled upon on Kaggle and an immediate interest was triggered with the aim of finding out trends and understanding the history and current trend of what the situation with maternal mortality is.
 
